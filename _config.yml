@@ -1,23 +1,7 @@
 title: Kevin Goveas # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: # your text below (remove <br> elements if you don't need line breaks)
-Bachelor of Engineering in Information Technology.
-Currently employed by Fermat Software and working at Silicon Labs Austin(on H1B visa)
-Previously employed with Larsen & Toubro (Client Halliburton, Houston)
-13.5 years of experience in software development, implementation and support.
-Extensive exposure in Application Development using Java, SWT, JFace, Eclipse Plug-in Development, RCP
-Expertise in Vue.js and Quasar framework and CSS styling.
-Experienced in Core Java, Struts web applications.
-Experience in Struts, JSP-1.1, Servlets, eclipse-4.x, Java1.5, Tomcat 5.5, JDBC-3.0, JavaScript 
-Experience working in an Agile software development environment
-Experience with the Atlassian Suite of tools (Jira, Confluence.)
-Worked with JSF framework
-Worked with Jest, SWTBot for UI testing, 
-Worked on Junit testing using Easy mock.
-Worked with PL/SQL and Oracle 9i/10g
-Worked with SVN, GIT, Clear case
-Used Maven build tool
- 
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  My description  
   <br><br>
   Second Description 
   <br><br>
