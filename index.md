@@ -4,16 +4,21 @@
 
 ### Professional Projects
 
-[Project 1 Title](/sample_page)
+[Simplicity Studio (Silicon Labs, Austin, Texas)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[DSG 10ep4 - Well Planning Module  ](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Decision Space](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[System Trace Tool (STT)](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
