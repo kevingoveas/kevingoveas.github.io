@@ -4,7 +4,7 @@
 
 ### Professional Projects
 
-[Simplicity Studio : Web Conversion] (/sample_page)
+[Simplicity Studio : Web Conversion](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [Simplicity Studio : EFP Tool](/sample_page)
