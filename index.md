@@ -4,7 +4,7 @@
 
 ### Professional Projects
 
-[Simplicity Studio (Silicon Labs, Austin, Texas)](/sample_page)
+[Simplicity Studio](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
