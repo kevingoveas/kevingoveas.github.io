@@ -5,29 +5,28 @@
 ### Professional Projects
 
 [Simplicity Studio : Web Conversion](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
 ---
 
 [Simplicity Studio : EFP Tool](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 [Simplicity Studio : Installation work flow Improvements](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [DSG 10ep4 - Well Planning Module  ](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Decision Space](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [System Trace Tool (STT)](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 
 ---
