@@ -1,6 +1,6 @@
 
 
-**Project description:** The Offline Installers of Simplicity Studio facilitates easier installation for the following 3 primary groups of clients :
+**Project description:** Simplicity Studio Installers Improvements
 
 <ul>
   <li>customers who cannot use the online installer for internet connection reasons</li>
@@ -27,7 +27,7 @@ Silicon Labs Austin Texas
  
 ### 2.  Duration
 
-July 2018 - April 2019
+ Aug 2016 - July 2018
 
 ### 3. Technologies used. 
 Jenkins, shell scripting, Python, Java, SWT, OSGi Services, JFace, RCP, Git ,Windows 10
