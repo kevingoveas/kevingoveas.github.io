@@ -74,7 +74,7 @@ Silicon Labs Austin Texas
  
 ### 2.  Duration
 
-Oct 2019 - Oct 2019
+May 2019 - Dec 2019
 
 ### 3. Technologies used. 
 HTML, Canvas Js, String Template, CSS, Java, SWT, OSGi Services, JFace, RCP, Junit, Git ,Windows 10
