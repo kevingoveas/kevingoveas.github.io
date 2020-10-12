@@ -13,7 +13,6 @@
   
 </ul>
 
-
 ## Architecture
 
 
@@ -33,4 +32,9 @@ Java, SWT, OSGi Services, JFace, RCP, YourKit, Junit, Jenkins, Git ,Windows 10
 Individual Contributor
 
 ### 5. Responsilbilities
-
+<ul>
+  <li>Contribute to the requirements gathering, architecture, design the application by following Agile Methodology.</li>
+  <li>Implemented UI, Business and Persistence layers using SWT/Jface controls, Core Java and OSGi Services</li>
+  <li>Wrote unit and integration tests to test all the desired functionality using JUnit</li>
+  <li>Responsible for technical POCs and code review </li>
+  
