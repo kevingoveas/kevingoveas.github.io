@@ -1,5 +1,5 @@
 
-**Project description:** Simplicity Studio is currently in the process of architecting and implementing Simplicity Studio version 5. It focusses on improvements to the user experience. This is achieved by moving some of the key front end user interface components to more modern technologies like Vue/Quasar/JavaScript/CSS. This new front end requires the definition of new RESTnAPIs which are being developed in Java and served through a newly integrated backend server (Jetty server).
+**Project description:** Simplicity Studio version 5, focusses on improvements to the user experience. This is achieved by moving some of the key front end user interface components to more modern technologies like Vue/Quasar/JavaScript/CSS. This new front end requires the definition of new RESTnAPIs which are being developed in Java and served through a newly integrated backend server (Jetty server).
 
 
 ### 1. Client
