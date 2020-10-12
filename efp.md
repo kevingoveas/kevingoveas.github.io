@@ -1,8 +1,16 @@
 
 
-**Project description:** Simplicity Studio is currently in the process of architecting and implementing Simplicity Studio version 5. It focusses on improvements to the user experience. This is achieved by moving some of the key front end user interface components to more modern technologies like Vue/Quasar/JavaScript/CSS. This new front end requires the definition of new RESTnAPIs which are being developed in Java and served through a newly integrated backend server (Jetty server).
+**Project description:** The EFP Configurator UI is jxBrowser-based interface that is relying on the underlying Engine to provide partial details about the presentation of the data in the UI. Specifically, the EFP Configuration Tool defines:
 
-*Architecture*
+The styles of all controls, including but not limited to fonts, colors, size, layout
+The EFP Configuration Tool honors the Engine deciding on the:
+
+control type (e.g. numeric, ranged, combo box, chart)
+control labels and values
+ordering of controls within the given group (inputs are ordered by Engine's list and outputs as well)
+The EFP Configuration tool uses view templates that accept java objects that carry those attributes and applies them to the generated HTML
+
+## Architecture
 The configuration tool in Simplicity Studio comprises the following components:
 <ul>
   <li>EFP Python Engine</li>
@@ -33,10 +41,11 @@ value for a string or numeric
 data structure containing arrays with labels, axes labels, and data for charts
 generate header file with calculated register values (for use case 1)
 generate data to write to the part using EFM32 USB→I2C bridge chip (use case 2)
-EFP Adapter Pack
+
+## EFP Adapter Pack
 The EFP Adapter Pack is a bridge between Java layer in studio and python engine running the python scripts.
 
-EFP Engine
+## EFP Engine
 The EFP Engine provides the API for the configuration tool to use. The EFP engine is responsible for invoking the Python calculator via EFP Adapter Pack. The EFP Engine is stateless, meaning that it has no session and needs no memory of the current state of the calculations. It always calculates new state based on the provided inputs.
 
 In addition to bridging to the EFP python calculator for configuration calculations and output generation, the EFP Engine is responsible for:
@@ -47,7 +56,7 @@ In addition to bridging to the EFP python calculator for configuration calculati
   <li>adding/removing the configuration file to/from a current project</li>
 </ul>
 
-EFP Configurator UI
+## EFP Configurator UI
 The EFP Configurator UI is jxBrowser-based interface that is relying on the underlying Engine to provide partial details about the presentation of the data in the UI. Specifically, the EFP Configuration Tool defines:
 
 The styles of all controls, including but not limited to fonts, colors, size, layout
