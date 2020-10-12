@@ -22,11 +22,11 @@
 
 
 ---
-[DSG 10ep4 - Well Planning Module  ](/pdf/sample_presentation.pdf)
+[DSG 10ep4 : Well Planning Module  ](/pdf/sample_presentation.pdf)
 
 
 ---
-[Decision Space](http://example.com/)
+[DSG 10ep4 : SSD](http://example.com/)
 
 
 ---
@@ -46,5 +46,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!--<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>-->
 <!-- Remove above link if you don't want to attibute -->
