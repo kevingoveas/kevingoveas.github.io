@@ -33,7 +33,7 @@
 
 ### Personal Projects
 
-- [Vue Sampple Project](http://example.com/)
+- [Vue Sampple Project](https://github.com/kevingoveas/vueSample)
 
 ---
 
