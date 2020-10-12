@@ -2,30 +2,22 @@
 **Project description:** Simplicity Studio is currently in the process of architecting and implementing Simplicity Studio version 5. It focusses on improvements to the user experience. This is achieved by moving some of the key front end user interface components to more modern technologies like Vie/Quasar/JavaScript/CSS. This new front end requires the definition of new RESTnAPIs which are being developed in Java and served through a newly integrated backend server (Jetty server).
 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Client
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Silicon Labs Austin Texas
+ 
+### 2.  Duration
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+Nov 2019 - Sep 2020
 
-### 2. Assess assumptions on which statistical inference will be based
+### 3. Role 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+Individual Contributor
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 4. Responsilbilities
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Conversion of the Install Wizard and Package Manager dialog in SWT UI to web UI using  Vue.js / Quasar frameworks
 
-### 4. Provide a basis for further data collection through surveys or experiments
+### Technologies used. 
+HTML, Quasar, Vue.js, CSS, Java, SWT, OSGi Services, JFace, RCP, Junit, Jest, Git ,Windows 10
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
