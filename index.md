@@ -31,7 +31,7 @@
 
 
 ---
-[System Trace Tool (STT)](http://example.com/)
+[System Trace Tool (STT)](/stt)
 
 
 
