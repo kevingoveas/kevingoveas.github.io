@@ -25,4 +25,4 @@ Tech Stack:
 
 BACK END: Java
 
-FRONT-END: Vue.js, Vuex for state management, Quasar UI l
+FRONT-END: Vue.js, Vuex for state management, Quasar framework
