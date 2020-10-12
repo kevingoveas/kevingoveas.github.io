@@ -18,7 +18,7 @@
 
 ---
 
-[Simplicity Studio : Installation work flow Improvements](/sample_page)
+[Simplicity Studio : Installation work flow Improvements](/initial)
 
 
 ---
