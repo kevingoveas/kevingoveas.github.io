@@ -31,7 +31,7 @@
 
 ---
 
-### Personal Projects
+### Git Hub Projects
 
 - [Vue Sample Project](https://github.com/kevingoveas/vueSample)
 
