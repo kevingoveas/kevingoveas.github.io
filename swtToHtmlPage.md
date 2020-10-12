@@ -20,3 +20,9 @@ Individual Contributor
 ### 5. Responsilbilities
 
 Conversion of SWT/JFace based Install Wizard and Package Manager dialog to a much richer html based UI using Vue/Quasar/JavaScript/HTML/CSS.
+
+Tech Stack:
+
+BACK END: Java
+
+FRONT-END: Vue.js, Vuex for state management, Quasar UI l
