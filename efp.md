@@ -1,14 +1,14 @@
 
 
-**Project description:** The EFP Configurator UI is jxBrowser-based interface that is relying on the underlying Engine to provide partial details about the presentation of the data in the UI. Specifically, the EFP Configuration Tool defines:
+**Project description:** The EFP Configurator UI is jxBrowser-based interface that is relying on the underlying Engine to provide details about the presentation of the data in the UI. Specifically, the EFP Configuration Tool defines:
 
-The styles of all controls, including but not limited to fonts, colors, size, layout
+The styles of all controls, including but not limited to fonts, colors, size, layout. The tool uses the charting library Canvas.js for displaying various charts, depending on tha values received from the engine.
 The EFP Configuration Tool honors the Engine deciding on the:
 
 control type (e.g. numeric, ranged, combo box, chart)
 control labels and values
 ordering of controls within the given group (inputs are ordered by Engine's list and outputs as well)
-The EFP Configuration tool uses view templates that accept java objects that carry those attributes and applies them to the generated HTML
+The EFP Configuration tool uses string templates (.stg) that accept java objects that carry those attributes and applies them to the generated HTML
 
 ## Architecture
 The configuration tool in Simplicity Studio comprises the following components:
@@ -57,15 +57,15 @@ In addition to bridging to the EFP python calculator for configuration calculati
 </ul>
 
 ## EFP Configurator UI
-The EFP Configurator UI is jxBrowser-based interface that is relying on the underlying Engine to provide partial details about the presentation of the data in the UI. Specifically, the EFP Configuration Tool defines:
+ The EFP Configurator UI is jxBrowser-based interface that is relying on the underlying Engine to provide details about the presentation of the data in the UI. Specifically, the EFP Configuration Tool defines:
 
-The styles of all controls, including but not limited to fonts, colors, size, layout
+The styles of all controls, including but not limited to fonts, colors, size, layout. The tool uses the charting library Canvas.js for displaying various charts, depending on tha values received from the engine.
 The EFP Configuration Tool honors the Engine deciding on the:
 
 control type (e.g. numeric, ranged, combo box, chart)
 control labels and values
 ordering of controls within the given group (inputs are ordered by Engine's list and outputs as well)
-The EFP Configuration tool uses view templates that accept java objects that carry those attributes and applies them to the generated HTM
+The EFP Configuration tool uses string templates (.stg) that accept java objects that carry those attributes and applies them to the generated HTML
 
 
 ### 1. Client
