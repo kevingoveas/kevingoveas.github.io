@@ -13,6 +13,11 @@
 
 ---
 
+
+[Simplicity Studio : Offline Installers](/offline)
+
+---
+
 [Simplicity Studio : Installation work flow Improvements](/sample_page)
 
 
