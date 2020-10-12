@@ -9,7 +9,7 @@
 
 ---
 
-[Simplicity Studio : EFP Tool](/sample_page)
+[Simplicity Studio : EFP Tool](/efp)
 
 ---
 
