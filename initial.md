@@ -26,7 +26,7 @@ Silicon Labs Austin Texas
  Aug 2016 - July 2018
 
 ### 3. Technologies used. 
-Jenkins, shell scripting, Python, Java, SWT, OSGi Services, JFace, RCP, Git ,Windows 10
+Java, SWT, OSGi Services, JFace, RCP, YourKit, Junit, Jenkins, Git ,Windows 10
 
 ### 4. Role 
 
