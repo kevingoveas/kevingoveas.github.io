@@ -22,11 +22,12 @@
 
 
 ---
-[DSG 10ep4 : Well Planning Module  ](/pdf/sample_presentation.pdf)
-
+[DSG 10ep4 : Well Planning Module  ](/wellPlanning)
+<!-- to use a PDF [DSG 10ep4 : Well Planning Module  ](/pdf/sample_presentation.pdf) -->
 
 ---
-[DSG 10ep4 : SSD](http://example.com/)
+[DSG 10ep4 : SSD](/ssd)
+<!-- To use an external website [DSG 10ep4 : SSD](http://example.com/) -->
 
 
 ---
