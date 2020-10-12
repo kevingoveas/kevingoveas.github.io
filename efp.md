@@ -2,19 +2,13 @@
 
 **Project description:** Simplicity Studio is currently in the process of architecting and implementing Simplicity Studio version 5. It focusses on improvements to the user experience. This is achieved by moving some of the key front end user interface components to more modern technologies like Vue/Quasar/JavaScript/CSS. This new front end requires the definition of new RESTnAPIs which are being developed in Java and served through a newly integrated backend server (Jetty server).
 
-Architecture
+*Architecture*
 The configuration tool in Simplicity Studio comprises the following components:
-
-EFP Python Engine
-EFP Adapter Pack
-EFP Engine
-EFP Configurator UI
-EFP Python Engine
-
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>EFP Python Engine</li>
+  <li>EFP Adapter Pack</li>
+  <li>EFP Engine</li>
+  <li>EFP Configurator UI</li>
 </ul>
 
 The EFP Python engine is code managed by the hardware team; the responsibilities of the EFP Python Engine include:
@@ -47,9 +41,12 @@ The EFP Engine provides the API for the configuration tool to use. The EFP engin
 
 In addition to bridging to the EFP python calculator for configuration calculations and output generation, the EFP Engine is responsible for:
 
-serialization/deserialization of the EFP Configuration object to a file.
-creation of the new EFP Configuration object
-adding/removing the configuration file to/from a current project
+<ul>
+  <li>serialization/deserialization of the EFP Configuration object to a file.</li>
+  <li>creation of the new EFP Configuration object</li>
+  <li>adding/removing the configuration file to/from a current project</li>
+</ul>
+
 EFP Configurator UI
 The EFP Configurator UI is jxBrowser-based interface that is relying on the underlying Engine to provide partial details about the presentation of the data in the UI. Specifically, the EFP Configuration Tool defines:
 
@@ -79,4 +76,4 @@ Individual Contributor
 
 ### 5. Responsilbilities
 
-Conversion of SWT/JFace based Install Wizard and Package Manager dialog to a much richer html based UI using Vue/Quasar/JavaScript/HTML/CSS.
+Implementing the EFP Configurator UI.
