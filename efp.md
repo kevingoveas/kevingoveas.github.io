@@ -10,6 +10,13 @@ EFP Adapter Pack
 EFP Engine
 EFP Configurator UI
 EFP Python Engine
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
 The EFP Python engine is code managed by the hardware team; the responsibilities of the EFP Python Engine include:
 
 providing the list of valid EFP parts
@@ -61,7 +68,7 @@ Silicon Labs Austin Texas
  
 ### 2.  Duration
 
-Oct 2019 - Sep 2020
+Oct 2019 - Oct 2019
 
 ### 3. Technologies used. 
 HTML, Canvas Js, String Template, CSS, Java, SWT, OSGi Services, JFace, RCP, Junit, Git ,Windows 10
