@@ -42,7 +42,7 @@
 - [Vue Sample Project](https://github.com/kevingoveas/vueSample)
 
 ---
-
+- [Vue Quiz App](https://github.com/kevingoveas/vue_quasar-quiz-app)
 
 
 
